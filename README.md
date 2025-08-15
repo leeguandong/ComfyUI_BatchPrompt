@@ -1,6 +1,6 @@
 # ComfyUI_BatchPrompt
 
-![image](workflow.png)
+![image](worfklow.png)
 
 ## Install
 
